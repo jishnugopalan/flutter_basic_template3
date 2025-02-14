@@ -1,4 +1,4 @@
-# scholarholla
+# flutter_basic_template3
 
 A new Flutter project.
 
